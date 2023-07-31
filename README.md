@@ -12,6 +12,11 @@ AIM: Create Activity to display “Hello World” in TextView in the center of A
 
 
 
-Snackbar Message                                       ||                            Toast Message
+
+
+Snackbar Message & Toast Message:
+
+
+
 
 ![image](https://github.com/Rushi-7070/MAD_Practical-2_21012011136/assets/97504709/d8f6cd75-fd34-448f-96db-ef3bdbb97ad2)
