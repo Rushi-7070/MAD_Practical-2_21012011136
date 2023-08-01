@@ -10,6 +10,9 @@ AIM: Create Activity to display “Hello World” in TextView in the center of A
 
 
 
+Logcat:
+
+![WhatsApp Image 2023-07-31 at 2 12 14 PM](https://github.com/Rushi-7070/MAD_Practical-2_21012011136/assets/97504709/c1c3df28-61ae-4361-8442-33f380214e11)
 
 
 
